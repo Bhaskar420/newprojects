@@ -3,3 +3,11 @@ computer design reporting
 this my own charector 
 demond charectorzation
 demond default this my own charector
+########################################
+docker staus
+docker start
+docker stop
+docker pause
+docker log containername/containerid
+docker describe cotnainer/containerid
+:wq
