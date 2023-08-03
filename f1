@@ -9,5 +9,7 @@ docker start
 docker stop
 docker pause
 docker log containername/containerid
-docker describe cotnainer/containerid
-:wq
+docker describe cotnainer/containeri
+this my own methode that is called programing table and
+methode that is called progrmaing table 
+
